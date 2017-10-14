@@ -7,6 +7,7 @@ This is the test file translated from Japanese
 ## Newly Added
 
 - list
+- new list added by english doc
 
 ## Image
 
