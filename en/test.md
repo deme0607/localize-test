@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is the test file translated from Japanese. Edited line.
+This is the test file translated from Japanese
 
 ## Newly Added
 
